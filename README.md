@@ -7,6 +7,7 @@
 
 [![test_coverage](https://github.com/laurasun98/bis620.2022/actions/workflows/test_coverage.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/test_coverage.yaml)
 [![R-CMD-check](https://github.com/laurasun98/bis620.2022/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/R-CMD-check.yaml)
+[![lint](https://github.com/laurasun98/bis620.2022/actions/workflows/lint.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/lint.yaml)
 <!-- badges: end -->
 
 The goal of bis620.2022 is to …
