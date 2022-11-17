@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/laurasun98/bis620.2022/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/R-CMD-check.yaml)
+[![test_coverage](https://github.com/laurasun98/bis620.2022/actions/workflows/test_coverage.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/test_coverage.yaml)
 <!-- badges: end -->
 
 The goal of bis620.2022 is to …

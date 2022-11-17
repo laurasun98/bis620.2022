@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/laurasun98/bis620.2022/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/R-CMD-check.yaml)
+[![Test coverage](https://github.com/laurasun98/bis620.2022/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/test-coverage.yaml)
 <!-- badges: end -->
 
 The goal of bis620.2022 is to ...
