@@ -5,12 +5,15 @@
 
 <!-- badges: start -->
 
-[![test_coverage](https://github.com/laurasun98/bis620.2022/actions/workflows/test_coverage.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/test_coverage.yaml)
 [![R-CMD-check](https://github.com/laurasun98/bis620.2022/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/R-CMD-check.yaml)
 [![lint](https://github.com/laurasun98/bis620.2022/actions/workflows/lint.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/lint.yaml)
+[![test-coverage](https://github.com/laurasun98/bis620.2022/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/laurasun98/bis620.2022/actions/workflows/test-coverage.yaml)
 <!-- badges: end -->
 
-The goal of bis620.2022 is to …
+The goal of bis620.2022 is to look at the ukb_accel data and make some
+plots, such as a time-series plot faceted by axis. We are also able to
+get a data frame with the modulus of the Fourier coefficients for the X,
+Y, and Z channels with the spectral_signature function.
 
 ## Installation
 
