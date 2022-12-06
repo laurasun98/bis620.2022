@@ -13,7 +13,7 @@
 The goal of bis620.2022 is to look at the ukb_accel data and make some
 plots, such as a time-series plot faceted by axis. We are also able to
 get a data frame with the modulus of the Fourier coefficients for the X,
-Y, and Z channels with the spectral_signature function.
+Y, and Z channels with the lispectral_signature function.
 
 ## Installation
 
