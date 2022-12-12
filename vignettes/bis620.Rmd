@@ -17,3 +17,22 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(bis620.2022)
 ```
+
+## team
+Laura Sun (ls3474)
+
+Yutong Ge (yg393)
+
+Yongzhuo Chen(yc896)
+
+Ruiqiu Zhang(rz345)
+
+## description of the data
+We will be using the panitumumab clinical trial data. We will be studying whether age, sex, race, geographic region, KRAS status, Eastern Coorperative Oncology Group Performance Status affect death outcome. Knowing this would help with predicting death.
+
+## motivation
+The purpose of this study is to determine whether the Baseline Characteristics will influence the treatment effect of panitumumab in combination with FOLFOX compared to FOLFOX alone as first line therapy for metastatic colorectal cancer
+
+## Scientific research question
+Are the patients' Baseline Characteristics, including age, sex, race, geographic region, KRAS Status, Eastern Cooperative Oncology Group Performance Status and primary tumor type will influence the treatment effect of panitumumab in combination with FOLFOX compared to FOLFOX alone as first line therapy for metastatic colorectal cancer?
+
